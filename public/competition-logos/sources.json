@@ -1,0 +1,18 @@
+{
+  "retrieved": "2026-11-10",
+  "purpose": "Identify the linked competition organizers; no affiliation or endorsement implied.",
+  "sources": {
+    "codeforces.ico": "https://codeforces.com/favicon.ico",
+    "kaggle.ico": "https://www.kaggle.com/static/images/favicon-new.ico",
+    "lanqiao.png": "https://assets.lanqiao.cn/lanqiaobei-fe/v9.0.8/dist/favico.png",
+    "robomaster.ico": "https://www.robomaster.com/favicon.ico",
+    "solana.ico": "https://solana.org/favicon.ico",
+    "samsung.png": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png",
+    "hk-science-fair.png": "https://www.hksciencefair.org.hk/assets/img/favicon.png",
+    "atcoder.png": "https://img.atcoder.jp/assets/favicon.png",
+    "diamond-challenge.png": "https://diamondchallenge.org/wp-content/uploads/2024/08/DC-Favicon-1.png",
+    "edcity.svg": "https://static.edcity.hk/css/frontpage/theme/persona/images/EdCity_GovernmentFunded_Logo.svg",
+    "technovation.png": "https://technovationchallenge.org/wp-content/uploads/2026/08/cropped-favicon-512-transparent-32x32.png",
+    "vex.ico": "https://events.vex.com/images/favicon.ico"
+  }
+}
